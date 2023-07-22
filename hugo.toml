@@ -1,4 +1,4 @@
-baseURL = 'https://info.sbncc.icu'
+baseURL = 'https://info.sbncc.icu/OpenNCC/'
 languageCode = 'en-us'
 title = 'OpenNCC'
 theme = "hugo-book"
