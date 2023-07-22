@@ -1,0 +1,4 @@
+baseURL = 'https://info.sbncc.icu'
+languageCode = 'en-us'
+title = 'OpenNCC'
+theme = "hugo-book"
